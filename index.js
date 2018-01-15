@@ -17,6 +17,6 @@ function happyHolidayTo(holiday, name) {
   var statement = `Happy ${holiday}, ${name}!`
   if (name==="Joe") {
     return statement
-      else return you 
-  }
+    } else 
+      return you 
   }
