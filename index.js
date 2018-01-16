@@ -26,5 +26,5 @@ function happyHolidayTo(holiday, name) {
     var sentence = "It's 20 Days until Mother's Day!"
     var sentence2 = `It's ${days} days until ${holiday}!`
     if (days===days2)
-      return sentenc2
+      return sentence2
   }
